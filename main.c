@@ -2,9 +2,9 @@
 
   @file         main.c
 
-  @author       Stephen Brennan
+  @author       Shiv Pratap Singh
 
-  @date         Thursday,  8 January 2015
+  @date         Saturday,  8 July 2017
 
   @brief        LSH (Libstephen SHell)
 
